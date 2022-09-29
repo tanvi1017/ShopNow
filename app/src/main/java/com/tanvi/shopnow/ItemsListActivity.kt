@@ -16,6 +16,7 @@ class ItemsListActivity : AppCompatActivity() {
         recyclerView = findViewById(R.id.recyclerView)
 
        val data1 = ItemData("Tanvi 1","Priceless",R.drawable.iv1)
+
        val data2 = ItemData("Tanvi 2","Priceless",R.drawable.iv1)
        val data3 = ItemData("Tanvi 3","Priceless",R.drawable.iv1)
        val data4 = ItemData("Tanvi 4","Priceless",R.drawable.iv1)
